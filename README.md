@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x5MmcydWw0aTlxcmJzbmFmbm1vMG5waWg3bWZhd2cwODVzZThreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI4bThiOHVlcnMxeW5kMWt5OHl6bThqZnlsajZlMWtrdzg2OWhoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w6TZfG2ab2w7hP241a/giphy.gif" width="250"/>
   
   <h1>
     Привет, я Жирадков Дмитрий
